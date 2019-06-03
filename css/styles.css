@@ -8,3 +8,18 @@
 * {
     outline: 1px dotted black;
 }
+
+/* Homepage */
+.home{
+  background: khaki
+}
+
+/* Bio */
+.bio{
+  background: palevioletred
+}
+
+/* Contactsheet */
+.contact{
+  background: skyblue
+}
