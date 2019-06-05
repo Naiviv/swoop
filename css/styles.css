@@ -15,6 +15,17 @@
   background: khaki
 }
 
+/* Portfolio*/
+
+.portfolio{
+  background: red
+}
+
+figure{
+  background: #c0ffee;
+  
+}
+
 /* Bio */
 .bio{
   background: palevioletred
