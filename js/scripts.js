@@ -1,7 +1,17 @@
 console.log('OK');
 
-// Page Headings
-$('h1').lettering();
+// Global
+
+$('.tabs').tabslet();
+
+let date = new Date();
+let currentYear = date.getFullYear(); 
+
+console.log( currentYear );
+console.log( date);
+
+$('footer p span').text( currentYear )
+
 
 
 
@@ -9,9 +19,9 @@ $('h1').lettering();
 
 //Portfolio
 
-$('.portfolio').Chocolat({
+// $('.portfolio').Chocolat({
 
-    separator2: '--',
-    fullScreen: true,
-    enableZoom: false,
-});
+//    separator2: '--',
+//    fullScreen: true,
+//    enableZoom: false,
+// });
