@@ -400,7 +400,7 @@ nav li a{
   margin: 0 auto;  
   text-align: center;
   font-size: 2vw;
-  
+  align-self: flex-end;
 }
 
 .contact a img{
