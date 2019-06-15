@@ -10,7 +10,9 @@ let currentYear = date.getFullYear();
 console.log( currentYear );
 console.log( date);
 
-$('footer p span').text( currentYear )
+$('footer p span').text( currentYear );
+
+$('#one , #two , #three , #four , #five , #six , #seven , #eight , #nine').Chocolat();
 
 
 
